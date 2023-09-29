@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "bonbon-pink-flower-grows-in-the-soil.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "compression-type" : "gpu-optimized-best",
+    "preserves-vector-representation" : true
+  }
+}
